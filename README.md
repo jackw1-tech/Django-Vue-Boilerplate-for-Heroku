@@ -8,11 +8,8 @@ The site already includes a user registration and login system.
 ## Getting Started
 
 ### Setting Up the Environment
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo.git
-   cd your-repo
-   ```
+1. Clone the repository
+   
 2. Create a virtual environment:
    ```sh
    python -m venv venv
